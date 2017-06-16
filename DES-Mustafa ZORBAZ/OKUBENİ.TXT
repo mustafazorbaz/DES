@@ -1,0 +1,4 @@
+Ýyi günler hocam 
+	Projeyi javada Netbeans ortamýnda geliþtirdim.GUI iþlemlerinin
+daha iyi yönetilebilmesi açýsýnda  Netbeans'e import edebilirsiniz.
+Teþekkürler...
