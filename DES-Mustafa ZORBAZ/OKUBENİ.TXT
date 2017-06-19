@@ -1,4 +1,4 @@
-İyi günler hocam 
-	Projeyi javada Netbeans ortamında geliştirdim.GUI işlemlerinin
-daha iyi yönetilebilmesi açısında  Netbeans'e import edebilirsiniz.
-Teşekkürler...
+Ä°yi gÃ¼nler 
+	Projeyi javada Netbeans ortamÄ±nda geliÅŸtirdim.GUI iÅŸlemlerinin
+daha iyi yÃ¶netilebilmesi aÃ§Ä±sÄ±nda  Netbeans'e import edebilirsiniz.
+TeÅŸekkÃ¼rler...
